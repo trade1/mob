@@ -1,4 +1,4 @@
 mobile
 ======
 
-root dir for mobile code
+Root dir for mobile code
